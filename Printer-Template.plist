@@ -15,7 +15,7 @@
 	<key>display_name</key>
 	<string>DISPLAY_NAME</string>
 	<key>installcheck_script</key>
-	<string>#!/usr/bin/python
+	<string>#!/usr/local/munkireport/munkireport-python2
 import subprocess
 import sys
 import shlex
